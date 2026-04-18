@@ -13,14 +13,6 @@ class Solution {
                 start++;
                 end--;
             }
-            // // Revert the array
-            // start = 0;
-            // while (start == end){
-            //     if (image[i][start] == 1)
-            //         image[i][start] = 0;
-            //     else 
-            //         image[i][start] = 1;
-            // }
         }
 
         return image;
