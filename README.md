@@ -6,6 +6,7 @@ solved leetcode  java problems
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
@@ -14,9 +15,14 @@ solved leetcode  java problems
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
