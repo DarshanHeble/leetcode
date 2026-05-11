@@ -7,17 +7,20 @@ solved leetcode  java problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarshanHeble/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/DarshanHeble/leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -26,6 +29,7 @@ solved leetcode  java problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/DarshanHeble/leetcode/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarshanHeble/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -41,4 +45,8 @@ solved leetcode  java problems
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/DarshanHeble/leetcode/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
