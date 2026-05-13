@@ -43,6 +43,7 @@ solved leetcode  java problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/DarshanHeble/leetcode/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -59,6 +60,7 @@ solved leetcode  java problems
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/DarshanHeble/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -80,6 +82,7 @@ solved leetcode  java problems
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
