@@ -71,9 +71,22 @@ solved leetcode  java problems
 ## Design
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/DarshanHeble/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/DarshanHeble/leetcode/tree/master/0937-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
