@@ -6,6 +6,7 @@ solved leetcode  java problems
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DarshanHeble/leetcode/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/DarshanHeble/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -102,4 +103,12 @@ solved leetcode  java problems
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/DarshanHeble/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DarshanHeble/leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DarshanHeble/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
