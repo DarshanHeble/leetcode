@@ -12,6 +12,7 @@ solved leetcode  java problems
 | [0239-sliding-window-maximum](https://github.com/DarshanHeble/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/DarshanHeble/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarshanHeble/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2227-sum-of-subarray-ranges](https://github.com/DarshanHeble/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ solved leetcode  java problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/DarshanHeble/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarshanHeble/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/DarshanHeble/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarshanHeble/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -90,6 +92,7 @@ solved leetcode  java problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarshanHeble/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
+| [0966-binary-subarrays-with-sum](https://github.com/DarshanHeble/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +108,7 @@ solved leetcode  java problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/DarshanHeble/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DarshanHeble/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
