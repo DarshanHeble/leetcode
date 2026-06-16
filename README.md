@@ -7,6 +7,7 @@ solved leetcode  java problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DarshanHeble/leetcode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/DarshanHeble/leetcode/tree/master/0036-valid-sudoku) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/DarshanHeble/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -58,6 +59,7 @@ solved leetcode  java problems
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DarshanHeble/leetcode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 ## Queue
 |  |
@@ -94,6 +96,7 @@ solved leetcode  java problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/DarshanHeble/leetcode/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarshanHeble/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
 | [0966-binary-subarrays-with-sum](https://github.com/DarshanHeble/leetcode/tree/master/0966-binary-subarrays-with-sum) |
