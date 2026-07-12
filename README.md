@@ -6,6 +6,7 @@ solved leetcode  java problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DarshanHeble/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/DarshanHeble/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/DarshanHeble/leetcode/tree/master/0036-valid-sudoku) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -97,6 +98,7 @@ solved leetcode  java problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DarshanHeble/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/DarshanHeble/leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/DarshanHeble/leetcode/tree/master/0217-contains-duplicate) |
