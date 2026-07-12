@@ -11,6 +11,7 @@ solved leetcode  java problems
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/DarshanHeble/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/DarshanHeble/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/DarshanHeble/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DarshanHeble/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -98,6 +99,7 @@ solved leetcode  java problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/DarshanHeble/leetcode/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/DarshanHeble/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DarshanHeble/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarshanHeble/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
@@ -131,6 +133,7 @@ solved leetcode  java problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DarshanHeble/leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/DarshanHeble/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DarshanHeble/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
