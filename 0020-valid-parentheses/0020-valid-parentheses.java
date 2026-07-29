@@ -1,21 +1,23 @@
 class Solution {
+    // public static char getBracket() {
+    //     if ()
+    // }
+
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
 
         for (char ele : s.toCharArray()) {
-            if (ele == '(')
+            if (ele == '(') 
                 stack.push(')');
-
             else if (ele == '{')
                 stack.push('}');
-
-            else if (ele == '[') 
+            else if (ele == '[')
                 stack.push(']');
-
             else if (!stack.isEmpty() && ele == stack.peek()) {
                 stack.pop();
-            } else
+            } else {
                 return false;
+            }
         }
 
         return stack.isEmpty();

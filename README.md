@@ -29,6 +29,7 @@ solved leetcode  java problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DarshanHeble/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/DarshanHeble/leetcode/tree/master/0402-remove-k-digits) |
@@ -53,6 +54,7 @@ solved leetcode  java problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanHeble/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/DarshanHeble/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/DarshanHeble/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/DarshanHeble/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DarshanHeble/leetcode/tree/master/0424-longest-repeating-character-replacement) |
