@@ -33,6 +33,7 @@ solved leetcode  java problems
 | [0020-valid-parentheses](https://github.com/DarshanHeble/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/DarshanHeble/leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/DarshanHeble/leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DarshanHeble/leetcode/tree/master/0739-daily-temperatures) |
@@ -95,6 +96,7 @@ solved leetcode  java problems
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DarshanHeble/leetcode/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/DarshanHeble/leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/DarshanHeble/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
