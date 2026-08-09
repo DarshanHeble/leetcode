@@ -11,6 +11,7 @@ solved leetcode  java problems
 | [0036-valid-sudoku](https://github.com/DarshanHeble/leetcode/tree/master/0036-valid-sudoku) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DarshanHeble/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/DarshanHeble/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/DarshanHeble/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/DarshanHeble/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -33,6 +34,7 @@ solved leetcode  java problems
 | [0020-valid-parentheses](https://github.com/DarshanHeble/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DarshanHeble/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DarshanHeble/leetcode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DarshanHeble/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DarshanHeble/leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/DarshanHeble/leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/DarshanHeble/leetcode/tree/master/0735-asteroid-collision) |
@@ -148,5 +150,6 @@ solved leetcode  java problems
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DarshanHeble/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DarshanHeble/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
